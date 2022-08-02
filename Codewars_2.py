@@ -1,3 +1,4 @@
+
 numbers = [1, 2, 3, 4, 5]
 def sum_two_smallest_numbers(numbers):
     res = sorted(numbers)
